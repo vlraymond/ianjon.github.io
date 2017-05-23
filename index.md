@@ -1,9 +1,9 @@
 ## Work Resume : Ianjon Gabriel Brower
 
-P.O. Box 628, Barrow AK 99723 \\
-P.O. Box 81436, Faibranks AK, 99709
-Phone Number: 907-687-5192
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+P.O. Box 628, Barrow AK, 99723 \\
+P.O. Box 81436, Faibranks AK, 99709 \\
+Phone Number: 907-687-5192 \\
+
 
 ### Native Village of Barrow(2009, 2011)
 
@@ -12,9 +12,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ```markdown
 
 
-#Job Title: Clean up crew
-#Job Description: Traveled in a van, picked up trash all over the city
-# Duration: June- August
+Job Title: Clean up crew
+Job Description: Traveled in a van, picked up trash all over the city
+Duration: June- August
 Supervisor: James Kagak
 Contact: 907-852-4411
 - Bulleted

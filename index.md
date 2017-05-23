@@ -1,13 +1,13 @@
 # North Slope Borough: WIC ( Women, Infant, and Children. December 2016- Early January 2017). 
 
 
-###Job Title: Office Specialist
+### Job Title: Office Specialist
 
 Job Description: Mainly did filing, scanning, and shredded papers. Went out and helped with some health talks with the health department. Answered phones, some lifting and storage management. Updated contact phone list for patients to use.
 
 # University of Alaska Fairbanks: EPsCOR (Summer of 2016, part time through Fall Semester schooling)
 
-###Job Title: Student Intern
+### Job Title: Student Intern
 
 Job Description: Setting up recording devices along native hunting grounds to monitor air traffic. Listened to the audio to identify aircrafts, ATV's, and marine vehicles. Main travel during the setups were by boat. Listened to the recordings via computer.
 Stationed in Barrow, Alaska. When there was down time/ needed a break from listening to 3 months worth of audio, I would help out the North Slope Borough: Department of Wildlife Management. 

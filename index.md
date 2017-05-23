@@ -55,10 +55,10 @@ Duration: Circa September through May
 # Native Village of Barrow(2009, 2011) 
 ### Job Title: Clean up crew
 
-Job Description: Traveled in a van, picked up trash all over the city     ![Image of NVB](http://www.nvbarrow.com/img/main/mi3_60.jpg)
+Job Description: Traveled in a van, picked up trash all over the city     
 
+Duration: June- August    ![Image of NVB](http://www.nvbarrow.com/img/main/mi3_60.jpg)
 
-Duration: June- August
 
 # Education 
 

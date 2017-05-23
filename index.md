@@ -17,15 +17,8 @@ Job Description: Traveled in a van, picked up trash all over the city
 Duration: June- August
 Supervisor: James Kagak
 Contact: 907-852-4411
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-
-
-http://www.nvbarrow.com/
+http://www.nvbarrow.com/ 
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).

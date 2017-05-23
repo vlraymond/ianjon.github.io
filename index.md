@@ -50,7 +50,8 @@ Job Description: Safety and supervision of the people in the pool.
 -Taught lessons for swimming
 -CPR/FIRST aid certified for Fall 2010, Spring 2011- Fall 2011 (Expired)
 
-Duration: Circa September through May
+Duration: Circa September through May \
+[Image of NSBSD](http://www.nsbsd.org/cms/lib01/AK01001879/Centricity/Template/8/logos/nsbsdbeta.png)
 
 # Native Village of Barrow(2009, 2011) 
 ### Job Title: Clean up crew

@@ -10,23 +10,38 @@ Phone Number: 907-687-5192 \\
 
 
 ```markdown
-
-
 Job Title: Clean up crew
 Job Description: Traveled in a van, picked up trash all over the city
 Duration: June- August
 Supervisor: James Kagak
 Contact: 907-852-4411
 
-http://www.nvbarrow.com/ 
+Site: http://www.nvbarrow.com/ 
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### North Slope Borough School District (2010, 2011)
+```markdown
+Job Title: Life Guard 
+Job Description: Safety and supervision of the people in the pool.
+-Taught lessons for swimming
+-CPR/FIRST aid certified for Fall 2010, Spring 2011- Fall 2011 (Expired)
+Duration: Circa September through May
+Supervisor: Leeza Scott/Emily Roseberry
+Contact: 907-852-8950
 
-### Jekyll Themes
+Site: http://www.nsbsd.org/Domain/8
+```
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ianjon/ianjon.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### North Slope Borough: Department of Wildlife Management( 2012,2013,2014)
+```markdown
+Job Title: Wildlife Intern
+Job Description: Worked on various projects throughout the summer
+-Fyke Net Study: Daily check on the fyke net. Counted fish and species. Taken samples back to the lab.
+-Polar Bear Hair Snare Project: Went out and collected hair samples from the polar bear fence setup at Point Barrow.
+-Marine Mammal Surveys: Surveyed the beach for marine mammal life. Distances from Narl to Plover Point and Narl to Skull Cliffs. Method of transportation was via ATV. 
+In 2014, lead intern for the Marine Mammal Survey Project. Present a poster about it at the Alaska Marine Mammal Science Symposium.
+Duration: May-August
+Supervisor: Leslie Pierce
+Contact: 907-852-0350
+Site: http://www.north-slope.org/departments/wildlife-management
+```

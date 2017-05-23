@@ -52,11 +52,11 @@ Job Description: Safety and supervision of the people in the pool.
 
 Duration: Circa September through May
 
-# Native Village of Barrow(2009, 2011) ![Image of NVB](http://www.nvbarrow.com/img/main/mi3_60.jpg)
-
+# Native Village of Barrow(2009, 2011) 
 ### Job Title: Clean up crew
 
-Job Description: Traveled in a van, picked up trash all over the city
+Job Description: Traveled in a van, picked up trash all over the city     ![Image of NVB](http://www.nvbarrow.com/img/main/mi3_60.jpg)
+
 
 Duration: June- August
 

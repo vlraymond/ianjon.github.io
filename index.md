@@ -1,22 +1,22 @@
-### North Slope Borough: WIC ( Women, Infant, and Children. December 2016- Early January 2017). 
-`markdown
-`
-Job Title: Office Specialist
+# North Slope Borough: WIC ( Women, Infant, and Children. December 2016- Early January 2017). 
+
+
+###Job Title: Office Specialist
 
 Job Description: Mainly did filing, scanning, and shredded papers. Went out and helped with some health talks with the health department. Answered phones, some lifting and storage management. Updated contact phone list for patients to use.
 
-### University of Alaska Fairbanks: EPsCOR (Summer of 2016, part time through Fall Semester schooling)
-```markdown
-Job Title: Student Intern
+# University of Alaska Fairbanks: EPsCOR (Summer of 2016, part time through Fall Semester schooling)
+
+###Job Title: Student Intern
 
 Job Description: Setting up recording devices along native hunting grounds to monitor air traffic. Listened to the audio to identify aircrafts, ATV's, and marine vehicles. Main travel during the setups were by boat. Listened to the recordings via computer.
 Stationed in Barrow, Alaska. When there was down time/ needed a break from listening to 3 months worth of audio, I would help out the North Slope Borough: Department of Wildlife Management. 
 
-```
 
-### Houston Contracting Company( June 10,2015, 8 weeks of work)
-```markdown
-Job Title: Laborer
+
+# Houston Contracting Company( June 10,2015, 8 weeks of work)
+
+### Job Title: Laborer
 
 Job Decription: Transporting heavy objects from place to place.
 -Basic Scaffolding procedures. (No License, ground man)
@@ -27,11 +27,11 @@ For the scaffolding, I was working with licensed scaffolders for about 4 weeks. 
 I was with the insulation foreman, who was teaching me the ropes on applying coating and adding the jackets to various size pipelines. 
 
 Total hours worked: 672 hours
-```
 
-### North Slope Borough: Department of Wildlife Management( 2012,2013,2014)
-```markdown
-Job Title: Wildlife Intern
+
+# North Slope Borough: Department of Wildlife Management( 2012,2013,2014)
+
+### Job Title: Wildlife Intern
 
 Job Description: Worked on various projects throughout the summer
 
@@ -42,11 +42,8 @@ Job Description: Worked on various projects throughout the summer
 In 2014, lead intern for the Marine Mammal Survey Project. Presented a poster about it at the Alaska Marine Mammal Science Symposium.
 Duration: May-August
 
-```
-
-### North Slope Borough School District (2010, 2011)
-```markdown
-Job Title: Life Guard 
+# North Slope Borough School District (2010, 2011)
+### Job Title: Life Guard 
 
 Job Description: Safety and supervision of the people in the pool.
 
@@ -54,25 +51,21 @@ Job Description: Safety and supervision of the people in the pool.
 -CPR/FIRST aid certified for Fall 2010, Spring 2011- Fall 2011 (Expired)
 
 Duration: Circa September through May
-```
 
-### Native Village of Barrow(2009, 2011)
+# Native Village of Barrow(2009, 2011)
 
-```markdown
-Job Title: Clean up crew
+### Job Title: Clean up crew
 
 Job Description: Traveled in a van, picked up trash all over the city
 
 Duration: June- August
 
-```
+# Education 
 
-### Education 
-```markdown
-Barrow Highschool
+### Barrow Highschool
 August 2008-May 2012, Graduated. MC during graduation
 
-University of Alaska Fairbanks:
+### University of Alaska Fairbanks:
 
 2011: RAHI(Rural Alaska Honors Institute)
 -Attended RAHI 1, which consisted of some general courses such as introduction to writing, math, and a couple electives. 
@@ -80,10 +73,10 @@ University of Alaska Fairbanks:
 May 2012- Ongoing for higher education
 Major: Going for a Bachelor of Science in Mathematics
 Courses Completed: Calculus 3, Differential Equations, Senior in Standing credits. 
-```
 
-### Skills and Equipment Used
-```markdown
+
+# Skills and Equipment Used
+
 Data Documentation
 Basic science field procedures
 Snow machine/four-wheeling handling
@@ -93,4 +86,3 @@ Gun training from the Wildlife Department
 Scaffolding equipment
 Rigging lines for heavy objects
 Basic Office Specialist needs
-```

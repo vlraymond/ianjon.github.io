@@ -1,6 +1,6 @@
 ## Work Resume : Ianjon Gabriel Brower
 
-P.O. Box 628, Barrow AK 99723
+P.O. Box 628, Barrow AK 99723 \\
 P.O. Box 81436, Faibranks AK, 99709
 Phone Number: 907-687-5192
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.

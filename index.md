@@ -56,8 +56,9 @@ Duration: Circa September through May
 ### Job Title: Clean up crew
 
 Job Description: Traveled in a van, picked up trash all over the city     
+Duration: June- August    
 
-Duration: June- August    ![Image of NVB](http://www.nvbarrow.com/img/main/mi3_60.jpg)
+![Image of NVB](http://www.nvbarrow.com/img/main/mi3_60.jpg)
 
 
 # Education 

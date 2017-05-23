@@ -68,8 +68,8 @@ Duration: June- August
 August 2008-May 2012, Graduated. MC during graduation
 
 
-### University of Alaska Fairbanks:
-
+![Image of UAF](https://www.aconex.com/sites/default/files/standard-university_of_alaska_fairbanks.png)
+\
 2011: RAHI(Rural Alaska Honors Institute)
 -Attended RAHI 1, which consisted of some general courses such as introduction to writing, math, and a couple electives. 
 

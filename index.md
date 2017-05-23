@@ -42,7 +42,7 @@ Job Description: Worked on various projects throughout the summer
 In 2014, lead intern for the Marine Mammal Survey Project. Presented a poster about it at the Alaska Marine Mammal Science Symposium.
 Duration: May-August
 
-# North Slope Borough School District (2010, 2011)
+![Image of NSBSD](http://www.nsbsd.org/cms/lib01/AK01001879/Centricity/Template/8/logos/nsbsdbeta.png) (2011,2012) \
 ### Job Title: Life Guard 
 
 Job Description: Safety and supervision of the people in the pool.
@@ -51,7 +51,7 @@ Job Description: Safety and supervision of the people in the pool.
 -CPR/FIRST aid certified for Fall 2010, Spring 2011- Fall 2011 (Expired)
 
 Duration: Circa September through May \
-![Image of NSBSD](http://www.nsbsd.org/cms/lib01/AK01001879/Centricity/Template/8/logos/nsbsdbeta.png)
+
 
 # Native Village of Barrow(2009, 2011) 
 ### Job Title: Clean up crew
@@ -81,12 +81,12 @@ Courses Completed: Calculus 3, Differential Equations, Senior in Standing credit
 
 # Skills and Equipment Used
 
-Data Documentation
-Basic science field procedures
-Snow machine/four-wheeling handling
-Basic boat handling
-Driver's License
-Gun training from the Wildlife Department
-Scaffolding equipment
-Rigging lines for heavy objects
+Data Documentation \
+Basic science field procedures \
+Snow machine/four-wheeling handling \
+Basic boat handling \
+Driver's License \
+Gun training from the Wildlife Department \
+Scaffolding equipment \
+Rigging lines for heavy objects \
 Basic Office Specialist needs

@@ -5,8 +5,6 @@ Job Title: Office Specialist
 Job Description: Mainly did filing, scanning, and shredded papers. Went out and helped with some health talks with the health department. Answered phones, some lifting and storage management. Updated contact phone list for patients to use.
 
 Supervisor: Wendy Christianson
-Contact: Wendy.Christianson@north-slope.org
-Phone Number: 907-852-0410
 ```
 ### University of Alaska Fairbanks: EPsCOR (Summer of 2016, part time through Fall Semester schooling)
 ```markdown
@@ -16,7 +14,6 @@ Job Description: Setting up recording devices along native hunting grounds to mo
 Stationed in Barrow, Alaska. When there was down time/ needed a break from listening to 3 months worth of audio, I would help out the North Slope Borough: Department of Wildlife Management. 
 
 Supervisor: Todd Brinkman, Taylor Stinchcomb
-Contact: 907-474-7139 (Todd's workline)
 ```
 
 ### Houston Contracting Company( June 10,2015, 8 weeks of work)
@@ -32,7 +29,6 @@ For the scaffolding, I was working with licensed scaffolders for about 4 weeks. 
 I was with the insulation foreman, who was teaching me the ropes on applying coating and adding the jackets to various size pipelines. 
 
 Total hours worked: 672 hours
-Contact:907-339-6400 (AES Houston Contracting Company)
 ```
 
 ### North Slope Borough: Department of Wildlife Management( 2012,2013,2014)
@@ -49,9 +45,6 @@ In 2014, lead intern for the Marine Mammal Survey Project. Presented a poster ab
 Duration: May-August
 
 Supervisor: Leslie Pierce
-Contact: 907-852-0350
-
-Site: http://www.north-slope.org/departments/wildlife-management
 ```
 
 ### North Slope Borough School District (2010, 2011)
@@ -65,9 +58,6 @@ Job Description: Safety and supervision of the people in the pool.
 
 Duration: Circa September through May
 Supervisor: Leeza Scott/Emily Roseberry
-Contact: 907-852-8950
-
-Site: http://www.nsbsd.org/Domain/8
 ```
 
 ### Native Village of Barrow(2009, 2011)
@@ -80,10 +70,6 @@ Job Description: Traveled in a van, picked up trash all over the city
 Duration: June- August
 
 Supervisor: James Kagak
-
-Contact: 907-852-4411
-
-Site: http://www.nvbarrow.com/ 
 ```
 
 ### Education 

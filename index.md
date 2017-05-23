@@ -4,7 +4,6 @@ Job Title: Office Specialist
 
 Job Description: Mainly did filing, scanning, and shredded papers. Went out and helped with some health talks with the health department. Answered phones, some lifting and storage management. Updated contact phone list for patients to use.
 
-Supervisor: Wendy Christianson
 ```
 ### University of Alaska Fairbanks: EPsCOR (Summer of 2016, part time through Fall Semester schooling)
 ```markdown
@@ -13,7 +12,6 @@ Job Title: Student Intern
 Job Description: Setting up recording devices along native hunting grounds to monitor air traffic. Listened to the audio to identify aircrafts, ATV's, and marine vehicles. Main travel during the setups were by boat. Listened to the recordings via computer.
 Stationed in Barrow, Alaska. When there was down time/ needed a break from listening to 3 months worth of audio, I would help out the North Slope Borough: Department of Wildlife Management. 
 
-Supervisor: Todd Brinkman, Taylor Stinchcomb
 ```
 
 ### Houston Contracting Company( June 10,2015, 8 weeks of work)
@@ -44,7 +42,6 @@ Job Description: Worked on various projects throughout the summer
 In 2014, lead intern for the Marine Mammal Survey Project. Presented a poster about it at the Alaska Marine Mammal Science Symposium.
 Duration: May-August
 
-Supervisor: Leslie Pierce
 ```
 
 ### North Slope Borough School District (2010, 2011)
@@ -57,7 +54,6 @@ Job Description: Safety and supervision of the people in the pool.
 -CPR/FIRST aid certified for Fall 2010, Spring 2011- Fall 2011 (Expired)
 
 Duration: Circa September through May
-Supervisor: Leeza Scott/Emily Roseberry
 ```
 
 ### Native Village of Barrow(2009, 2011)
@@ -69,7 +65,6 @@ Job Description: Traveled in a van, picked up trash all over the city
 
 Duration: June- August
 
-Supervisor: James Kagak
 ```
 
 ### Education 

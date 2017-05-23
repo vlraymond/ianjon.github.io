@@ -65,6 +65,7 @@ Duration: June- August
 
 ### Barrow Highschool
 August 2008-May 2012, Graduated. MC during graduation
+![Image of BHS](http://www.nsbsd.org/cms/lib01/AK01001879/Centricity/Template/8/logos/bhs.png)
 
 ### University of Alaska Fairbanks:
 

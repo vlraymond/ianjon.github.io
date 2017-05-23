@@ -33,13 +33,13 @@ Site: http://www.nsbsd.org/Domain/8
 ```
 
 ### North Slope Borough: Department of Wildlife Management( 2012,2013,2014)
-```markdown
+``````markdown
 Job Title: Wildlife Intern
 Job Description: Worked on various projects throughout the summer
 -Fyke Net Study: Daily check on the fyke net. Counted fish and species. Taken samples back to the lab.
 -Polar Bear Hair Snare Project: Went out and collected hair samples from the polar bear fence setup at Point Barrow.
 -Marine Mammal Surveys: Surveyed the beach for marine mammal life. Distances from Narl to Plover Point and Narl to Skull Cliffs. Method of transportation was via ATV. 
-In 2014, lead intern for the Marine Mammal Survey Project. Present a poster about it at the Alaska Marine Mammal Science Symposium.
+In 2014, lead intern for the Marine Mammal Survey Project. Presented a poster about it at the Alaska Marine Mammal Science Symposium.
 Duration: May-August
 Supervisor: Leslie Pierce
 Contact: 907-852-0350

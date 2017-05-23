@@ -42,8 +42,8 @@ Job Description: Worked on various projects throughout the summer
 In 2014, lead intern for the Marine Mammal Survey Project. Presented a poster about it at the Alaska Marine Mammal Science Symposium.
 Duration: May-August
 
-![Image of NSBSD](http://www.nsbsd.org/cms/lib01/AK01001879/Centricity/Template/8/logos/nsbsdbeta.png) (2011,2012) \
-### Job Title: Life Guard 
+![Image of NSBSD](http://www.nsbsd.org/cms/lib01/AK01001879/Centricity/Template/8/logos/nsbsdbeta.png)  \
+### Job Title: Life Guard (2011, 2012)
 
 Job Description: Safety and supervision of the people in the pool.
 

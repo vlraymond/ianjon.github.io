@@ -30,13 +30,10 @@ Job Title: Life Guard
 Job Description: Safety and supervision of the people in the pool.
 
 -Taught lessons for swimming
-
 -CPR/FIRST aid certified for Fall 2010, Spring 2011- Fall 2011 (Expired)
 
 Duration: Circa September through May
-
 Supervisor: Leeza Scott/Emily Roseberry
-
 Contact: 907-852-8950
 
 Site: http://www.nsbsd.org/Domain/8
@@ -82,7 +79,6 @@ Contact:907-339-6400 (AES Houston Contracting Company)
 Job Title: Student Intern
 
 Job Description: Setting up recording devices along native hunting grounds to monitor air traffic. Listened to the audio to identify aircrafts, ATV's, and marine vehicles. Main travel during the setups were by boat. Listened to the recordings via computer.
-
 Stationed in Barrow, Alaska. When there was down time/ needed a break from listening to 3 months worth of audio, I would help out the North Slope Borough: Department of Wildlife Management. 
 
 Supervisor: Todd Brinkman, Taylor Stinchcomb

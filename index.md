@@ -1,10 +1,10 @@
 ### North Slope Borough: WIC ( Women, Infant, and Children. December 2016- Early January 2017). 
-``markdown
+`markdown
+`
 Job Title: Office Specialist
 
 Job Description: Mainly did filing, scanning, and shredded papers. Went out and helped with some health talks with the health department. Answered phones, some lifting and storage management. Updated contact phone list for patients to use.
 
-``
 ### University of Alaska Fairbanks: EPsCOR (Summer of 2016, part time through Fall Semester schooling)
 ```markdown
 Job Title: Student Intern

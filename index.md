@@ -1,5 +1,3 @@
-## Work Resume : Ianjon Gabriel Brower
-
 ### North Slope Borough: WIC ( Women, Infant, and Children. December 2016- Early January 2017). 
 ```markdown
 Job Title: Office Specialist

@@ -1,11 +1,11 @@
 ![Image of NSB](http://d14rj7v0r2qnrv.cloudfront.net/wp-content/uploads/2016/04/12160825/logo.jpg)
 
 # NSB WIC ( Women, Infant, Children)
-### Job Title: Office Specialist
+### Job Title: Office Specialist (December 2016- Early January 2017)
 
 Job Description: Mainly did filing, scanning, and shredded papers. Went out and helped with some health talks with the health department. Answered phones, some lifting and storage management. Updated contact phone list for patients to use.
 
-![Image of UAF](http://www.logotypes101.com/logos/615/603D53427C86EBADB77417C6F01DB4C7/UAF.png) ![Image of EpsCOR](http://southeast.epscor.alaska.edu/cms/media/300x300/2013/07/16/11_46_58_918_EPSCoR_300x300.png) \
+![Image of UAF](http://www.logotypes101.com/logos/615/603D53427C86EBADB77417C6F01DB4C7/UAF.png) ![Image of EpsCOR](http://southeast.epscor.alaska.edu/cms/media/300x300/2013/07/16/11_46_58_918_EPSCoR_300x300.png) 
 
 # University of Alaska Fairbanks EPsCOR
 ### Job Title: Student Intern (Summer of 2016, Part time through Fall Semester)
@@ -31,7 +31,7 @@ I was with the insulation foreman, who was teaching me the ropes on applying coa
 Total hours worked: 672 hours
 
 
-![Image of NSB-DWM](http://www.supergreenme.com/data/thumbs/1a/1aeee75c207f0c3bc8c05916b5fb42f4.png) \
+![Image of NSB-DWM](http://www.supergreenme.com/data/thumbs/1a/1aeee75c207f0c3bc8c05916b5fb42f4.png) 
 # North Slope Borough Department of Wildlife Management (2012,2013,2014)
 ### Job Title: Wildlife Intern 
 
@@ -44,7 +44,7 @@ Job Description: Worked on various projects throughout the summer
 In 2014, lead intern for the Marine Mammal Survey Project. Presented a poster about it at the Alaska Marine Mammal Science Symposium.
 Duration: May-August
 
-![Image of NSBSD](http://www.nsbsd.org/cms/lib01/AK01001879/Centricity/Template/8/logos/nsbsdbeta.png)  \
+![Image of NSBSD](http://www.nsbsd.org/cms/lib01/AK01001879/Centricity/Template/8/logos/nsbsdbeta.png)  
 # North Slope Borough School District (2011,2012)
 ### Job Title: Life Guard 
 
@@ -53,7 +53,7 @@ Job Description: Safety and supervision of the people in the pool.
 -Taught lessons for swimming
 -CPR/FIRST aid certified for Fall 2010, Spring 2011- Fall 2011 (Expired)
 
-Duration: Circa September through May \
+Duration: Circa September through May 
 
 ![Image of NVB](https://s3-media1.fl.yelpcdn.com/bphoto/W9XV5SsHcv0PHV2bHkBP3A/o.jpg) 
 
@@ -69,12 +69,12 @@ Duration: June- August
 # Education 
 
 ![Image of BHS](http://www.nsbsd.org/cms/lib01/AK01001879/Centricity/Template/8/logos/bhs.png)
-\
+
 August 2008-May 2012, Graduated. MC during graduation
 
 
 ![Image of UAF](https://www.aconex.com/sites/default/files/standard-university_of_alaska_fairbanks.png)
-\
+
 2011: RAHI(Rural Alaska Honors Institute)
 -Attended RAHI 1, which consisted of some general courses such as introduction to writing, math, and a couple electives. 
 

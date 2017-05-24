@@ -83,7 +83,7 @@ Major: Going for a Bachelor of Science in Mathematics
 Courses Completed: Calculus 3, Differential Equations, Senior in Standing credits. 
 
 
-# Skills and Equipment Used
+# Skills and Equipment Used \\
 Data Documentation 
 Basic science field procedures 
 Snow machine/four-wheeling handling 

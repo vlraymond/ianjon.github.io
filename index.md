@@ -5,7 +5,7 @@
 
 Job Description: Mainly did filing, scanning, and shredded papers. Went out and helped with some health talks with the health department. Answered phones, some lifting and storage management. Updated contact phone list for patients to use.
 
-![Image of UAF](http://www.uog.edu/sites/default/files/uaflogo_a_647_horiz.png) ![Image of EpsCOR](http://www.alaska.edu/files/epscor/EPSCoR-logo-JPEG.jpg) \
+![Image of UAF](https://www.uaf.edu/files/universityrelations/branding/Nanook_Bear_647_left.png) ![Image of EpsCOR](http://www.alaska.edu/files/epscor/EPSCoR-logo-JPEG.jpg) \
 
 ### Job Title: Student Intern (Summer of 2016, Part time through Fall Semester)
 

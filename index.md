@@ -55,6 +55,7 @@ Job Description: Safety and supervision of the people in the pool.
 
 Duration: Circa September through May \
 
+![Image of NVB](https://s3-media1.fl.yelpcdn.com/bphoto/W9XV5SsHcv0PHV2bHkBP3A/o.jpg) \
 
 # Native Village of Barrow(2009, 2011) 
 ### Job Title: Clean up crew
@@ -62,7 +63,7 @@ Duration: Circa September through May \
 Job Description: Traveled in a van, picked up trash all over the city     
 Duration: June- August    
 
-![Image of NVB](http://www.nvbarrow.com/img/main/mi3_60.jpg)
+
 
 
 # Education 

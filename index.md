@@ -84,7 +84,6 @@ Courses Completed: Calculus 3, Differential Equations, Senior in Standing credit
 
 
 # Skills and Equipment Used
-
 Data Documentation 
 Basic science field procedures 
 Snow machine/four-wheeling handling 

@@ -85,12 +85,12 @@ Courses Completed: Calculus 3, Differential Equations, Senior in Standing credit
 
 # Skills and Equipment Used
 
-Data Documentation \
-Basic science field procedures \
-Snow machine/four-wheeling handling \
-Basic boat handling \
-Driver's License \
-Gun training from the Wildlife Department \
-Scaffolding equipment \
-Rigging lines for heavy objects \
+Data Documentation 
+Basic science field procedures 
+Snow machine/four-wheeling handling 
+Basic boat handling 
+Driver's License 
+Gun training from the Wildlife Department 
+Scaffolding equipment 
+Rigging lines for heavy objects 
 Basic Office Specialist needs

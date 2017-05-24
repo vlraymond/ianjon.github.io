@@ -16,7 +16,7 @@ Stationed in Barrow, Alaska. When there was down time/ needed a break from liste
 
 ![Image of ASRC ENERGY SERVICES](http://www.asrcenergy.com/wp-content/uploads/2014/03/AES-Inc._black-gold-font-300ppi-01-01-01.jpg)
 
-# Houston Contracting Company 
+# Houston Contracting Company (June 10, 2016- August)
 ### Job Title: Laborer 
 
 Job Decription: Transporting heavy objects from place to place.

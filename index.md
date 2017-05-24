@@ -32,8 +32,8 @@ Total hours worked: 672 hours
 
 
 ![Image of NSB-DWM](http://www.supergreenme.com/data/thumbs/1a/1aeee75c207f0c3bc8c05916b5fb42f4.png)
-
-### Job Title: Wildlife Intern (2012,2013,2014)
+#North Slope Borough Department of Wildlife Management (2012,2013,2014)
+### Job Title: Wildlife Intern 
 
 Job Description: Worked on various projects throughout the summer
 
@@ -45,7 +45,8 @@ In 2014, lead intern for the Marine Mammal Survey Project. Presented a poster ab
 Duration: May-August
 
 ![Image of NSBSD](http://www.nsbsd.org/cms/lib01/AK01001879/Centricity/Template/8/logos/nsbsdbeta.png)  \
-### Job Title: Life Guard (2011, 2012)
+# North Slope Borough School District (2011,2012)
+### Job Title: Life Guard 
 
 Job Description: Safety and supervision of the people in the pool.
 

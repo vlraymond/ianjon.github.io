@@ -5,9 +5,9 @@
 
 Job Description: Mainly did filing, scanning, and shredded papers. Went out and helped with some health talks with the health department. Answered phones, some lifting and storage management. Updated contact phone list for patients to use.
 
-# University of Alaska Fairbanks: EPsCOR (Summer of 2016, part time through Fall Semester schooling)
+![Image of UAF](http://www.uog.edu/sites/default/files/uaflogo_a_647_horiz.png) ![Image of EpsCOR](http://www.alaska.edu/files/epscor/EPSCoR-logo-JPEG.jpg) \
 
-### Job Title: Student Intern
+### Job Title: Student Intern (Summer of 2016, Part time through Fall Semester)
 
 Job Description: Setting up recording devices along native hunting grounds to monitor air traffic. Listened to the audio to identify aircrafts, ATV's, and marine vehicles. Main travel during the setups were by boat. Listened to the recordings via computer.
 Stationed in Barrow, Alaska. When there was down time/ needed a break from listening to 3 months worth of audio, I would help out the North Slope Borough: Department of Wildlife Management. 

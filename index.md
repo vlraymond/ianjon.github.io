@@ -41,6 +41,8 @@ Job Description: Worked on various projects throughout the summer
 -Polar Bear Hair Snare Project: Went out and collected hair samples from the polar bear fence setup at Point Barrow.
 -Marine Mammal Surveys: Surveyed the beach for marine mammal life. Distances from Narl to Plover Point and Narl to Skull Cliffs. Method of transportation was via ATV. 
 
+[Click here if you would like to read more about the projects I've helped out with!](https://ianjon.github.io/ianjons.github.io/)
+
 In 2014, lead intern for the Marine Mammal Survey Project. Presented a poster about it at the Alaska Marine Mammal Science Symposium.
 Duration: May-August
 

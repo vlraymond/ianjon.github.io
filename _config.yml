@@ -1,9 +1,5 @@
 title: Ianjon Brower's Resume
 theme: jekyll-theme-cayman
-exclude:
-  -CNAME
-  -gitignore
-  -_config.yml
 collections:
   Projects:
     output: true

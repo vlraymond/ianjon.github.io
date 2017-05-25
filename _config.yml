@@ -4,4 +4,4 @@ description : I get along with everyone fairly well. I'm not shy and I do like t
 collections:
   topics: ![Projects](https://ianjon.github.io/Projects/) 
     output: true
-    layout: default
+    layout: jekyll-theme-cayman

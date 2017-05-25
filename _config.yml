@@ -2,6 +2,6 @@ theme : jekyll-theme-cayman
 title : Ianjon Brower's Resume
 description : I get along with everyone fairly well. I'm not shy and I do like to speak. If you have any questions, don't hesitate to ask!
 collections:
-  topics:
+  topics: ![Projects](https://ianjon.github.io/Projects/) 
     output: true
     layout: default

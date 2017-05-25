@@ -1,3 +1,8 @@
+markdown: kramdown
+safe: true
+lsi: false
+highlither: pygments
+port: 7000
 title: Ianjon Brower's Resume
 theme: jekyll-theme-cayman
 collections:

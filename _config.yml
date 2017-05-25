@@ -3,3 +3,9 @@ title : Ianjon Brower's Resume
 description : I get along with everyone fairly well. I'm not shy and I do like to speak. If you have any questions, don't hesitate to ask!
 collections: 
 - Projects: 
+defaults:
+  - scope:
+      path: ""
+      type: Projects
+    values:
+      layout: page

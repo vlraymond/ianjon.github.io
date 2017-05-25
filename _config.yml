@@ -8,4 +8,4 @@ defaults:
       path: ""
       type: Projects
     values:
-      layout: page
+      layout: jekyll-theme-cayman

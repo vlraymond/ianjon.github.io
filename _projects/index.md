@@ -9,5 +9,6 @@ layout: jekyll-theme-cayman
 <li>
   <a href= "{{ post.url}}">{{ post.title}}</a>
 </li>
+</li>
 {% endfor %}
 </ul>

@@ -1,6 +1,6 @@
 ---
 title: Projects
-layout: jekyll-theme-cayman
+theme: jekyll-theme-cayman
 ---
 
 ### Projects

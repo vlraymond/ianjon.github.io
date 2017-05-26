@@ -2,6 +2,7 @@
 title: Stranded Marine Mammal Survey
 layout: jekyll-theme-cayman
 ---
+theme: jekyll-theme-cayman
 ![Image of Poster](http://i.imgur.com/A1sjYFr.jpg)
 
 

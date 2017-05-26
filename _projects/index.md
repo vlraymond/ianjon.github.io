@@ -1,9 +1,9 @@
 ---
-title: Focused projects (index)
-theme: jekyll-theme-cayman
+title: Projects
+layout: jekyll-theme-cayman
 ---
 
-### Various scraps
+### Projects
 <ul class= "well lead list-unstyled">
 {% for post in site.projects %}
 <li>

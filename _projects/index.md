@@ -1,5 +1,5 @@
 ---
-title: Projects
+title: projects
 theme: jekyll-theme-cayman
 ---
 

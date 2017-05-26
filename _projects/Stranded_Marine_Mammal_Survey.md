@@ -1,4 +1,3 @@
-
 ---
 title: Stranded Marine Mammal Survey
 layout: default

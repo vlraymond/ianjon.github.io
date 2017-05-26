@@ -1,6 +1,6 @@
 ---
 title: Polar Bear Hair Snare
-layout: default
+theme: jekyll-theme-cayman
 ---
 
 ![Image of Polar Bear&Fence](http://graphics8.nytimes.com/images/2011/05/19/science/19saw_sensorbear1/19saw_sensorbear1-blog480.jpg)!

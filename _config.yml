@@ -3,7 +3,7 @@ theme: jekyll-theme-cayman
 collections:
   projects:
     output: true
-    layout: jekyll-theme-cayman
+    theme: jekyll-theme-cayman
     
    
 

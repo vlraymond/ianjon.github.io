@@ -1,6 +1,7 @@
 title: Ianjon Brower's Resume
 theme: jekyll-theme-cayman
 collections:
+descriptions:
   projects:
     output: true
     theme: jekyll-theme-cayman

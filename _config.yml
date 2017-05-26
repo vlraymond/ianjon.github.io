@@ -1,3 +1,5 @@
+markdown: kramdown
+safe: true
 title: Ianjon Brower's Resume
 theme: jekyll-theme-cayman
 collections:

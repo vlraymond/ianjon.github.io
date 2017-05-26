@@ -1,6 +1,6 @@
 ---
 title: Stranded Marine Mammal Survey
-theme: jekyll-theme-cayman
+layout: jekyll-theme-cayman
 ---
 ![Image of Poster](http://i.imgur.com/A1sjYFr.jpg)
 

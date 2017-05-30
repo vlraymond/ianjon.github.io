@@ -1,10 +1,6 @@
 ---
 title: Stranded Marine Mammal Survey
-theme: jekyll-theme-cayman
 ---
-
-![Image of Poster](http://i.imgur.com/A1sjYFr.jpg)
-
 
 Made and presented this poster at the Alaska Marine Science Symposium in 2015. Right click and open in a new window if you would like to look at it, as it makes it easier to read. I worked on this project during the summers of 2012,2013,2014. It usually starts around mid to late June and goes to about October or until the ice comes in. For northern survevialance, started off at NSB-DWM shore area, following the coast all the way up to Point Barrow and back. For down the coast, same starting area to Skull Cliffs.  As you can see in the poster, the main method of transportation is by four wheelers and some areas you have to come out with chest waders to check the depth and hardness of creeks so that you don't get stuck.
 
@@ -13,3 +9,4 @@ Made and presented this poster at the Alaska Marine Science Symposium in 2015. R
 The land mark is Skull Cliffs and is a reference to how far away from Barrow it is. It's about a 30 mile drive south of Barrow. Usually bring a 5 gallon gas canistar for safety reasons, don't want to be stranded out there with just a shotgun, some data documentation, and a gps. 
 
 ![Image of Barrow to Skull Cliffs](http://i.imgur.com/8cvsiy5.png)
+![Image of Poster](http://i.imgur.com/A1sjYFr.jpg)

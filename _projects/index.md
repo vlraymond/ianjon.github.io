@@ -1,4 +1,7 @@
-### Various scraps
+---
+title:
+---
+### Projects
 
 <ul class="well lead list-unstyled">
 {% for post in site.projects %}

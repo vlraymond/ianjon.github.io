@@ -2,8 +2,7 @@
 title:
 ---
 ### Projects
-theme: jekyll-theme-cayman
-<ul class="well lead list-unstyled">
+<ul class="jekyll-theme-cayman">
 {% for post in site.projects %}
   <li>
     <a href="{{ post.url }}">{{ post.title}}</a>

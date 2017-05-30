@@ -2,7 +2,6 @@
 ---
 title: Polar Bear Hair Snare
 ---
-title: Polar Bear Hair Snare
 ![Image of Polar Bear&Fence](http://graphics8.nytimes.com/images/2011/05/19/science/19saw_sensorbear1/19saw_sensorbear1-blog480.jpg)!
 
 ![Image of Point Barrow](https://www.tide-forecast.com/tidelocationmaps/Point-Barrow-Alaska.10.gif)

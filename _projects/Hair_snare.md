@@ -1,4 +1,3 @@
-
 ---
 title: Polar Bear Hair Snare
 ---

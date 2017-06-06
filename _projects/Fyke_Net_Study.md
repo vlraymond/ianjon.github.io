@@ -1,6 +1,6 @@
 ---
 title: Fyke Net Study
-theme: jekyll-theme-cayman
+layout: default 
 ---
 ![Image of Fyke Net](https://netsandmore.com/images/catalog-images/fyketrapnet_400.jpg) ![Image in use](http://www.rhpdm.uevora.pt/gallery/A3.png)
 

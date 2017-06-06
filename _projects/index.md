@@ -1,9 +1,7 @@
 ---
-title: Focused Topics (index)
+title: Projects
 layout: default
 ---
-
-### Various scraps
 
 <ul class="well lead list-unstyled">
 {% for post in site.projects %}

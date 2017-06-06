@@ -1,5 +1,6 @@
 ---
 title: Stranded Marine Mammal Survey
+layout: default
 ---
 
 Made and presented this poster at the Alaska Marine Science Symposium in 2015. Right click and open in a new window if you would like to look at it, as it makes it easier to read. I worked on this project during the summers of 2012,2013,2014. It usually starts around mid to late June and goes to about October or until the ice comes in. For northern survevialance, started off at NSB-DWM shore area, following the coast all the way up to Point Barrow and back. For down the coast, same starting area to Skull Cliffs.  As you can see in the poster, the main method of transportation is by four wheelers and some areas you have to come out with chest waders to check the depth and hardness of creeks so that you don't get stuck.

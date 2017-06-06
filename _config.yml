@@ -1,6 +1,6 @@
-title: Ianjon Brower's Resume
+title: ![Click here for a list of projects i've done/helped with](ianjon.github.io/projects/) 
 theme: jekyll-theme-cayman
-descriptions: ![Click here for a list of projects i've done/helped with](ianjon.github.io/projects/) 
+descriptions: 
 collections:
   projects:
     output: true

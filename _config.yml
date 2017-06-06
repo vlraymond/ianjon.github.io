@@ -7,7 +7,7 @@ collections:
     
 defaults:
   - scope:
-      path: "_projects"
-      type: 
+      path: ""
+      type: projects
     values:
       layout: page

@@ -1,6 +1,6 @@
 ---
 title: Setting up the pi
-layout:default
+layout: default
 ---
 
 So here's a link to download the operating system onto the SD card/micro SD card if it doesn't come with it installed or it manages to go very wrong. 

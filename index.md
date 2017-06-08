@@ -46,8 +46,6 @@ Job Description: Worked on various projects throughout the summer
 In 2014, lead intern for the Marine Mammal Survey Project. Presented a poster about it at the Alaska Marine Mammal Science Symposium.
 Duration: May-August
 
-[Click here if you would like to read more about the projects I've helped out with!](https://ianjon.github.io/what/)
-
 ![Image of NSBSD](http://www.nsbsd.org/cms/lib01/AK01001879/Centricity/Template/8/logos/nsbsdbeta.png)  
 # North Slope Borough School District (2011,2012)
 ### Job Title: Life Guard 

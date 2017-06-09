@@ -22,10 +22,13 @@ After that, open up the terminal window (which should be the monitor icon on the
 ![Image of what the terminal should look like](http://osoyoo.com/wp-content/uploads/2016/09/2-1.png)
 
 Then type in the terminal : sudo apt-get update
+
 Then when it's done, type in : sudo apt-get upgrade
+
 After that's all said and done, we need to install the packages for Sense HAT. Type in the terminal after the update is done: sudo apt-get install sense-hat
 
 Once that is done, you'll need to make a directory folder. We'll continue through this from the terminal. 
-type in the terminal : mkdir pi_weather_station
+type in the terminal 
+: mkdir pi_weather_station
 
 This should create a folder in the home, with the folder named pi_weather_station

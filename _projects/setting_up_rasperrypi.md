@@ -16,3 +16,16 @@ The next step is to open the home button, which should be at the top left side o
 
 
 ![Image of what the screen should look like when you are changing the keyboard layout](http://guides.cyntech.co.uk/wp-content/uploads/sites/8/2015/09/raspi-configgui.png) 
+
+After that, open up the terminal window (which should be the monitor icon on the top bar of the screen). 
+
+![Image of what the terminal should look like](http://osoyoo.com/wp-content/uploads/2016/09/2-1.png)
+
+Then type in the terminal : sudo apt-get update
+Then when it's done, type in : sudo apt-get upgrade
+After that's all said and done, we need to install the packages for Sense HAT. Type in the terminal after the update is done: sudo apt-get install sense-hat
+
+Once that is done, you'll need to make a directory folder. We'll continue through this from the terminal. 
+type in the terminal : mkdir pi_weather_station
+
+This should create a folder in the home, with the folder named pi_weather_station

@@ -1,5 +1,5 @@
 ---
-Title: Progress
+Title: 2017 Ice Cellar Progress update(s)
 layout: default
 ---
 

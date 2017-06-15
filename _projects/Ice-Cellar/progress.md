@@ -1,6 +1,6 @@
 ---
-title:Progress
-layout:default
+Title: Progress
+layout: default
 ---
 
 June 14, 2017: 

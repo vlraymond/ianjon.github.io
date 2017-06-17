@@ -14,3 +14,8 @@ Update on Battery Pack: 4 D sized duracell batteries( To my conclusion that they
 Got a graph working at the moment for temperature and time. Working on making it so that it'll update the graph by itself instead of having to re-run the program to get an updated graph. 
 
 ![Raspberry Pi Image](http://i.imgur.com/MFdY0VO.png) 
+
+
+June 16, 2017: Social meadia post. Got contacted from an NSB-Mayors office persononel asking to send as a widespread email across the northslope
+
+Alaska Eskimo Whaling Commission manager/employee asking if she could try and get us on the agenda for a meeting being held her in fairbanks in the month of July about the projects. As in try and present it at AEWC. 

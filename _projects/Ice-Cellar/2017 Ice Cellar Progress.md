@@ -19,3 +19,5 @@ Got a graph working at the moment for temperature and time. Working on making it
 June 16, 2017: Social meadia post. Got contacted from an NSB-Mayors office persononel asking to send as a widespread email across the northslope
 
 Alaska Eskimo Whaling Commission manager/employee asking if she could try and get us on the agenda for a meeting being held her in fairbanks in the month of July about the projects. As in try and present it at AEWC. 
+
+June 19,2017: Figuring out why matplotlib.pyplot isn't functioning on the pi. Function runs but the inteded source that I followed shows a live graph, while mine just shows a blank screen. 

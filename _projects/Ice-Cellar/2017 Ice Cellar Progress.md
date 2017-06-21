@@ -21,3 +21,5 @@ June 16, 2017: Social meadia post. Got contacted from an NSB-Mayors office perso
 Alaska Eskimo Whaling Commission manager/employee asking if she could try and get us on the agenda for a meeting being held her in fairbanks in the month of July about the projects. As in try and present it at AEWC. 
 
 June 19,2017: Figuring out why matplotlib.pyplot isn't functioning on the pi. Function runs but the inteded source that I followed shows a live graph, while mine just shows a blank screen. 
+
+June 20, 2017: With the help of Ross a bit, I got the code to work on python 2.7.9 for a live graph running but not for python 3. 

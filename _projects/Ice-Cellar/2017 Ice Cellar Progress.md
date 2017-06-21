@@ -23,3 +23,5 @@ Alaska Eskimo Whaling Commission manager/employee asking if she could try and ge
 June 19,2017: Figuring out why matplotlib.pyplot isn't functioning on the pi. Function runs but the inteded source that I followed shows a live graph, while mine just shows a blank screen. 
 
 June 20, 2017: With the help of Ross a bit, I got the code to work on python 2.7.9 for a live graph running but not for python 3. 
+
+June 21, 2017: Copy and pasted the code for python 3 into a python 2 script and changed a weee bit on the code to get proper temperature.

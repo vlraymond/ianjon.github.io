@@ -25,3 +25,6 @@ June 19,2017: Figuring out why matplotlib.pyplot isn't functioning on the pi. Fu
 June 20, 2017: With the help of Ross a bit, I got the code to work on python 2.7.9 for a live graph running but not for python 3. 
 
 June 21, 2017: Copy and pasted the code for python 3 into a python 2 script and changed a weee bit on the code to get proper temperature.
+![Image of Live Graph](http://i.imgur.com/kUcKDAH.jpg) 
+
+June 26,2017: First time messing around with a raspberry pi bread board and getting to know some of it's features. Trying/going to implement a cat 5 cable so that we can put a sensor into the cellars without the pi having to be down there itself. Also finished my first draft for a questionaire to ask the public about their ice cellars so that we can get an idea of what materials we need for some and what materials we need for the length of cables. 

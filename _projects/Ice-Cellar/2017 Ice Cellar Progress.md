@@ -28,3 +28,6 @@ June 21, 2017: Copy and pasted the code for python 3 into a python 2 script and 
 ![Image of Live Graph](http://i.imgur.com/kUcKDAH.jpg) 
 
 June 26,2017: First time messing around with a raspberry pi bread board and getting to know some of it's features. Trying/going to implement a cat 5 cable so that we can put a sensor into the cellars without the pi having to be down there itself. Also finished my first draft for a questionaire to ask the public about their ice cellars so that we can get an idea of what materials we need for some and what materials we need for the length of cables. 
+
+June 29, 2017: Messing around with the DHT11 sesnor and kinda fried it because I didn't know the breadboard needed a resistor. Met up with Vladimir R. . Back and forth on the project and ideas of to exapnd into different projects, such as permafrost ice. Was a little surprised when I told him I got a large community feedback that people are interested. Overall said this project looks very good. So woo! Looking at my presentation and I'm wondering what else to add to it.... 
+

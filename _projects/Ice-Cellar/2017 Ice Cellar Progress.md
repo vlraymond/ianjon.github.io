@@ -32,3 +32,9 @@ June 26,2017: First time messing around with a raspberry pi bread board and gett
 June 29, 2017: Messing around with the DHT11 sesnor and kinda fried it because I didn't know the breadboard needed a resistor. Met up with Vladimir R. . Back and forth on the project and ideas of to exapnd into different projects, such as permafrost ice. Was a little surprised when I told him I got a large community feedback that people are interested. Overall said this project looks very good. So woo! Looking at my presentation and I'm wondering what else to add to it.
 
 July 06 2017: Finished my draft presentation. Updating the presentation and making an outline to what I'll be saying on paper for the presentation. 
+
+July 13 2017: Learned about a application/web service called thingsboard.io. Essentially it is a very friendly user interface that anyone can navigate and apply to your needs, as long as you have a network connection and the device(s) needed to start monitoring. 
+
+Sam and I setup a raspberry pi with a DHT11 sensor and managed to get it running on the webservice in about 15 minutes. This will help out with the Ice Cellar Project for cellars near a home, which hopefully has a network. With those that are near a network, it will be able to send data to the webservice. Depending on the setup of the webservice, it could send an alert to the client/owner of the cellar when the temperature dips/passes a certain threshold, which in terms can save the meat through an automated alert system. The alarm can be email, text, or however you setup. Though it can get a bit complicated if it's other than those two. The draw back on using this system though is that some of the cellars will not be near a network. Through modifying the scripts, we then can have it log into a text file and plot a live graph.Here's what the initial widget looks like without changing anything to it: 
+
+![Widget image of Thingsboard](http://i.imgur.com/l5zSY8E.png) 

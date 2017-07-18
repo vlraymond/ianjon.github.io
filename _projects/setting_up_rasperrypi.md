@@ -24,6 +24,8 @@ After that, open up the terminal window (which should be the monitor icon on the
 Then type in the terminal : sudo apt-get update
 
 Then when it's done, type in : sudo apt-get upgrade
+Here is a video tutorial of how to setup the GPIO pins( wiring of the breadboard to the PI, most if not all kits will have the T-Cobbler attached. So for instance if he says negative to ground, just plugged the wire into the ground section of the T-Cobbler and so forth of that.) 
+https://www.youtube.com/watch?v=DPvxsHoD7kc&t=694s  
 
 Next we're going to install some necessary libraries. In the same command window you're going to type these commands to installt the libraries. I'll also post a link for where I got the command to install these, as they also have guides for these device(s). 
 
@@ -38,7 +40,7 @@ Adafruit DHT library installation for the command line window
 then after it's done installing, 
 
 type ```cd Adafruit_Python_DHT``` in the command line window to change to that folder directory. Then in the directory, type:
-``` sudo python setup.py install```
+``` sudo python setup.py install``` while you're in still in the same library, type ``` sudo apt-get update```. Reason is that when you try to run a script with the Adafruit_DHT Library, most of the time it'll say 'No import module named Adafruit_DHT' 
 
 This next part is where you're going to have to open a python script to copy and paste into script window. You can option to type in in yourself, but you'll most likely end up misspelling a some words and it won't work until you fix it. The code you'll have to put in the script is: 
 ```

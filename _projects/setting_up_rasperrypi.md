@@ -28,11 +28,14 @@ Then when it's done, type in : sudo apt-get upgrade
 Next we're going to install some necessary libraries. In the same command window you're going to type these commands to installt the libraries. I'll also post a link for where I got the command to install these, as they also have guides for these device(s). 
 
 Thingsboard library install for DHT Sensors:
-This library needs a DHT sensor along with the breadboard and some male to female jumper wires. So the commands to input are: fsdf
+This library needs a DHT sensor along with the breadboard and some male to female jumper wires. So the commands to input are:
+
 The MQTT library installation: sudo pip install paho-mqtt
 
-Adafruit DHT library installation for the command line window: 
-git clone https://github.com/adafruit/Adafruit_Python_DHT.git , then after it's done installing ,type cd Adafruit_Python_DHT in the command line window to change to that folder directory. Then in the directory, type: sudo python setup.py install
+Adafruit DHT library installation for the command line window 
+
+git clone https://github.com/adafruit/Adafruit_Python_DHT.git , 
+then after it's done installing ,type cd Adafruit_Python_DHT in the command line window to change to that folder directory. Then in the directory, type: sudo python setup.py install
 
 This next part is where you're going to have to open a python script to copy and paste into script window. You can option to type in in yourself, but you'll most likely end up misspelling a some words and it won't work until you fix it. The code you'll have to put in the script is: 
 ```

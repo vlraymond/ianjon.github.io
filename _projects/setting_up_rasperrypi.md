@@ -93,3 +93,4 @@ except KeyboardInterrupt:
 client.loop_stop()
 client.disconnect() 
 ```
+You're going to want to run this script in python 2. Script isn't reading that adafruit library if it's running in python 3

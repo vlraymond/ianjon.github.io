@@ -35,7 +35,7 @@ Adafruit DHT library installation for the command line window:
 git clone https://github.com/adafruit/Adafruit_Python_DHT.git , then after it's done installing ,type cd Adafruit_Python_DHT in the command line window to change to that folder directory. Then in the directory, type: sudo python setup.py install
 
 This next part is where you're going to have to open a python script to copy and paste into script window. You can option to type in in yourself, but you'll most likely end up misspelling a some words and it won't work until you fix it. The code you'll have to put in the script is: 
-
+```
 import os
 import time
 import sys
@@ -84,4 +84,4 @@ except KeyboardInterrupt:
 
 client.loop_stop()
 client.disconnect() 
-
+```

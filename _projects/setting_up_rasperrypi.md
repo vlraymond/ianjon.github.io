@@ -40,7 +40,7 @@ Adafruit DHT library installation for the command line window
 then after it's done installing, 
 
 type ```cd Adafruit_Python_DHT``` in the command line window to change to that folder directory. Then in the directory, type:
-``` sudo python setup.py install``` while you're in still in the same library, type ``` sudo apt-get update```. Reason is that when you try to run a script with the Adafruit_DHT Library, most of the time it'll say 'No import module named Adafruit_DHT' 
+```sudo apt-get install python-dev ```then ``` sudo python setup.py install``` while you're in still in the same library, type ``` sudo apt-get update```. Reason is that when you try to run a script with the Adafruit_DHT Library, most of the time it'll say 'No import module named Adafruit_DHT' 
 
 This next part is where you're going to have to open a python script to copy and paste into script window. You can option to type in in yourself, but you'll most likely end up misspelling a some words and it won't work until you fix it. The code you'll have to put in the script is: 
 ```
@@ -94,3 +94,5 @@ client.loop_stop()
 client.disconnect() 
 ```
 You're going to want to run this script in python 2. Script isn't reading that adafruit library if it's running in python 3
+
+If you need to do the live graph auto updating, then :

@@ -121,9 +121,9 @@ while als:
         writer.writerow(data)
     #this makes the script take measurements every minute, it's counted in seconds. Modify to your own timestamps of recording
     time.sleep(60)
-    ```
+ ```
     
-    So now that we have our file recording data at intervals, next is the script that'll update and provid you with a live graph of the data. 
+So now that we have our file recording data at intervals, next is the script that'll update and provid you with a live graph of the data. 
     
 ```
 import matplotlib.pyplot as plt

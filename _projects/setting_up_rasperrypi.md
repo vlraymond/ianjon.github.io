@@ -95,4 +95,75 @@ client.disconnect()
 ```
 You're going to want to run this script in python 2. Script isn't reading that adafruit library if it's running in python 3
 
-If you need to do the live graph auto updating, then :
+If you need to do the live graph auto updating on your screen, then you're going to need to install some more libraries. The next library you'll need to install is: ``` sudo apt-get install python-matplotlib```. Then copy this code into a python 2.7 script: 
+
+```
+import Adafruit_DHT
+import time
+from datetime import datetime
+import csv
+import sys
+csvfile = "temp.csv"
+als = True
+while als:
+    humidity, temperature = Adafruit_DHT.read_retry(Adafruit_DHT.DHT22, 4) 
+    if humidity is not None and temperature is not NOne:
+        humidity = round(humidity,2)
+        temperature = round(temperature,2)
+        print("Temperature = {0:0.1f}*F Humidity = {1:0.1f}" .format(((temperature*9)/5)+32 , humidity)
+    else: 
+        print('can not connect to sensor')
+    timeC = time.strftime("%I")+':'+time.strftime("%M")+':'+time.strftime("%S")
+    data = [((temperature*9)/5)+32 , humidity, timeC, time.strftime("%m-%d-%Y")]
+    #This just puts into a file later that's being read constantly. 
+    with open(csvfile, "a") as output:
+        writer = csv.writer(output, delimiter = "," , lineterminator = '\n')
+        writer.writerow(data)
+    #this makes the script take measurements every minute, it's counted in seconds. Modify to your own timestamps of recording
+    time.sleep(60)
+    ```
+    
+    So now that we have our file recording data at intervals, next is the script that'll update and provid you with a live graph of the data. 
+    
+```
+import matplotlib.pyplot as plt
+import matplotlib.dates as mdates
+import matplotlib.animation as animation
+from datetime import datetime
+
+fig = plt.figure()
+rect = fig.patch
+rect.set_faceolor('#0079E7')
+def animate(i):
+    ftemp = 'temp.csv'
+    fh = open(ftemp)
+    temp = list()
+    timeC = list()
+    humidity - list()
+    for line in fh:
+        pieces = line.split(',')
+        degree = pieces[0]
+        timeB= pieces[2]
+        waterstuff = pieces[1]
+        timeA= timeB[:8]
+        
+        time_string = datetime.strptime(timeA, "%H:%M:%S")
+        try: 
+            temp.append(float(degree))
+            timeC.append(time_string)
+            humidity.append(waterstuff)
+        except:
+            print("Not working! Check setup or check the code!")
+        
+        ax1 = fig.add_subplot(1,1,1,axisbg= 'white')
+        ax1.xaxis.set_major_formatter(mdates.DateFormatter('%m:%d:%Y'))
+        ax1.clear()
+        ax1.plot(timeC,temp,'c', linewidth = 3.3 , color = 'red' , label="Temperature in F"
+        ax1.plot(timeC,humidity,'c',linewidth = 3.3, color = 'blue', label = 'Humidity in %'
+        plt.ylim(0,100)
+        plt.title(Temperature&Humidity)
+        plt.xlabel('Time')
+        plt.legend(loc = "upper right")
+ani = animation.FuncAnimation(fig,animate,interval = 60000)
+plt.show
+```

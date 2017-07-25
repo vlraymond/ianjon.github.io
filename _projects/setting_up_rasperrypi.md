@@ -133,37 +133,38 @@ from datetime import datetime
 
 fig = plt.figure()
 rect = fig.patch
-rect.set_faceolor('#0079E7')
+rect.set_facecolor('#0079E7')
 def animate(i):
     ftemp = 'temp.csv'
     fh = open(ftemp)
     temp = list()
-    timeC = list()
-    humidity - list()
+    timeC =list()
+    humidity = list()
     for line in fh:
         pieces = line.split(',')
         degree = pieces[0]
         timeB= pieces[2]
-        waterstuff = pieces[1]
+        waterstuff= pieces[1]
         timeA= timeB[:8]
-        
-        time_string = datetime.strptime(timeA, "%H:%M:%S")
-        try: 
+
+        time_string = datetime.strptime(timeA,"%H:%M:%S")
+        try:
             temp.append(float(degree))
             timeC.append(time_string)
             humidity.append(waterstuff)
         except:
-            print("Not working! Check setup or check the code!")
-        
-        ax1 = fig.add_subplot(1,1,1,axisbg= 'white')
-        ax1.xaxis.set_major_formatter(mdates.DateFormatter('%m:%d:%Y'))
+            print('What, not working')
+
+        ax1 = fig.add_subplot(1,1,1,axisbg='white')
+        ax1.xaxis.set_major_formatter(mdates.DateFormatter('%H:%M:%S'))
         ax1.clear()
-        ax1.plot(timeC,temp,'c', linewidth = 3.3 , color = 'red' , label="Temperature in F"
-        ax1.plot(timeC,humidity,'c',linewidth = 3.3, color = 'blue', label = 'Humidity in %'
+        ax1.plot(timeC,temp,'c', linewidth = 3.3, color = "red", label= "Temp in *F")
+        ax1.plot(timeC,humidity,'c',linewidth = 3.3, color = "blue", label="Humidity in %")
         plt.ylim(0,100)
-        plt.title(Temperature&Humidity)
+        plt.title('Temperature&Humidity')
         plt.xlabel('Time')
         plt.legend(loc = "upper right")
-ani = animation.FuncAnimation(fig,animate,interval = 60000)
-plt.show
+ani = animation.FuncAnimation(fig,animate, interval= 6000)
+plt.show()
+        
 ```

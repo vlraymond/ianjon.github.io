@@ -42,3 +42,5 @@ Sam and I setup a raspberry pi with a DHT11 sensor and managed to get it running
 July 18 2017: Looking over the presentation a bit and practiced some live runs with the staff today and on July 14, 2017. Great feedback, though on the 14th the practice run I used a piece of paper. Today I didn't use it and it went more smoothly. Started working on a brand new pi to write down some of the work it takes to get to work at the moment. 
 
 July 19 2017: Went in and did the presentation infront of the AEWC board. They seemed very interested in the project and pleased with the presentation that I gave. Offered to follow out on a village trip to talk to students/kids about the S.T.E.M. program. I said yes and will be heading out on July 30th to Barrow for a day then off to Point Hope the next day. Will be meeting up with some of the other workers and give them.
+
+July 26 2017: Almost done with a live demo kit to bring along with me to the village of Point Hope. 

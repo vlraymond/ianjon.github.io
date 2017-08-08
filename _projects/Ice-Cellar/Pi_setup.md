@@ -2,6 +2,8 @@
 title: Setting up the pi
 layout: default
 ---
+# This Project is protected under the MIT License
+
 ### For Touch Screen Rotation
 If you want to flip your screen along with it's touch configuration, for example your setup is meant for the device to work upsides down, open the terminal window and type: ``` sudo nano /boot/config.txt``` and type in on the forth line : ```lcd_rotate=2```. 
 

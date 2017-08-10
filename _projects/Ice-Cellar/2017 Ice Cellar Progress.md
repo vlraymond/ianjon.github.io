@@ -44,3 +44,24 @@ July 18 2017: Looking over the presentation a bit and practiced some live runs w
 July 19 2017: Went in and did the presentation infront of the AEWC board. They seemed very interested in the project and pleased with the presentation that I gave. Offered to follow out on a village trip to talk to students/kids about the S.T.E.M. program. I said yes and will be heading out on July 30th to Barrow for a day then off to Point Hope the next day. Will be meeting up with some of the other workers and give them.
 
 July 26 2017: Almost done with a live demo kit to bring along with me to the village of Point Hope. 
+
+July 30, 2017- August 04 : Traveled to Barrow for a day to meet up with the ASRC Federal STEM crew, great people that I've met and will be in contact with. Helped out with the many activities for the children. After the children activities were over, I would reach out to the community to see who would like to be involed with the Ice Cellar Project. Managed to talk to a few whaling captains and surveyed 3 ice cellars. 
+
+![Photo of the Crew](http://i.imgur.com/I7KPJix.jpg) From left to right: Scott Howard, Drew Regner, Lisa Sedares, Lance Faust, and yours truly Ianjon Brower. Photo credit to Lisa Sedares
+
+Here is going to be some photos of the ice cellars. 
+
+![Photo of the entrance](http://i.imgur.com/qK03hLi.jpg) This is an entrance to many of the ice cellars in point hope. 
+
+![Photo of the inside](http://i.imgur.com/ote1m5t.jpg) This is what it looks like in the inside of the ice cellars, while some are worse, this was an okay ice cellar in the standards of the three that I checked out. Tad bright makes it hard to distinguish what's inside but that's part of the flipper that they're aging. Most of the ice cellars are about 5-10 feet deep and 5x8 in area for storage. 
+
+![Photo of an area around the ice cellar](http://i.imgur.com/3Kh5C2E.jpg) This is what it looks like for an ice cellar that's about to be eaten away by erosion. Different ice cellar than the other two photos. According to the owner that it's going to be gone either by this summer by the ocean or early next year. 
+
+
+August 7-10 2017: Wrote a trip report about my expedition and started to play around with the new equipment that was waiting for me while I was gone. Played around with the solar panel with no power bank. It would stay on without the low power indicator, but when a cloud came over the sun the device would restart a few times. Soldered some solid wires onto a ground sensor and will be testing it soon. The DHT 22 sensors are looking great, though I will be messing around with them to find the sweet spot for accuracy with resistors. Also played around with the new cases
+
+![Photo of the case lineup](http://i.imgur.com/aByt4cZ.jpg) 
+The case lineup with the devices connected to them.  My favorite/most versatile case is the one with the hinge, though it may be a bit bulky and a little more patience to work with. The 2nd case would be my runner up because it fits snug. Next one is the bamboo case, which is kinda bareback but it would be able to squeeze in smaller places. Last of of all is the screen itself with no case. 
+
+![Photo of the case lineup's back](http://i.imgur.com/fWsIja7.jpg) 
+Here is what it looks like for the back of these cases.

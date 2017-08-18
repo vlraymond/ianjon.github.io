@@ -65,3 +65,13 @@ The case lineup with the devices connected to them.  My favorite/most versatile 
 
 ![Photo of the case lineup's back](http://i.imgur.com/fWsIja7.jpg) 
 Here is what it looks like for the back of these cases.
+
+
+August 15,16 2017: Playing around with the ground temperature. Managed to get an easy detach like the DHT sensor. Resistor soldered in and connected to an ethernet cable. Here's an image of it connected. 
+
+![Photo of ground sesnor](hhttp://i.imgur.com/undefined.jpg) 
+Took a bit of work, had to rewire it once because I soldered the resistor the two wrong cables.
+
+August 17,2017 : With the help of Sam George, managed to get the ground temperature data uploaded to thingsboard. Here's an image of it
+
+![Thingsboard ground sensor](http://i.imgur.com/Mn6qFL3.png)

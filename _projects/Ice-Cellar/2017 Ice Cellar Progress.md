@@ -75,3 +75,6 @@ Took a bit of work, had to rewire it once because I soldered the resistor the tw
 August 17,2017 : With the help of Sam George, managed to get the ground temperature data uploaded to thingsboard. Here's an image of it
 
 ![Thingsboard ground sensor](http://i.imgur.com/Mn6qFL3.png)
+
+August 28, 2017: Tested the DHT 22 sensor with about a 80 foot ethernet extension cable soldered onto it. Works fine with a 2.2k ohm resistor. 
+

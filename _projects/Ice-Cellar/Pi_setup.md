@@ -231,5 +231,5 @@ while True:
         time.sleep(1)
 ```
 
-
+After that's done, go back into the terminal window and type : ```sudo nano /boot/config.txt```, scroll to the bottom and add this line to it : ```dtoverlay=w1-gpio```
 

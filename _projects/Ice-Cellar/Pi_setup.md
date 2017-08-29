@@ -11,7 +11,7 @@ If you want to flip your screen along with it's touch configuration, for example
 
 So here's a link to download the operating system onto the SD card/micro SD card if it doesn't come with it installed or it manages to go very wrong. 
 The link also helps with your first install of the operating system.
-(https://www.raspberrypi.org/help/noobs-setup/2/)
+[Click here for the download](https://www.raspberrypi.org/help/noobs-setup/2/)
 
 (Picture below is reference for what to pick as the operating system)
 ![Picture for reference on what to pick](https://www.raspberrypi.org/wp-content/uploads/2013/06/mainwindow.png)

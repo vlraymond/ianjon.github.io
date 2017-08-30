@@ -5,7 +5,7 @@ layout: default
 # This Project is protected under the MIT License
 # At the moment this is for the software side, this will be updated with pictures soon. 
 ### For Touch Screen Rotation
-If you want to flip your screen along with it's touch configuration, for example your setup is meant for the device to work upsides down, open the terminal window and type: ``` sudo nano /boot/config.txt``` and type in on the forth line : ```lcd_rotate=2```. 
+If you want to flip your screen along with its touch configuration, for example your setup is meant for the device to work upsides down, open the terminal window and type: ``` sudo nano /boot/config.txt``` and type in on the forth line : ```lcd_rotate=2```. 
 
 
 

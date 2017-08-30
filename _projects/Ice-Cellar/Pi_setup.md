@@ -128,7 +128,33 @@ while als:
     #this makes the script take measurements every minute, it's counted in seconds. Modify to your own timestamps of recording
     time.sleep(60)
  ```
-    
+ ### Hardware setup for DHT 22 Sensor: 
+ You're going to need to know a little bit about the GPIO pins for the raspberry pi. Here's a chart displaying what each pin is used for. 
+ 
+ ![GPIO Pin layout](http://blog.mcmelectronics.com/image.axd?picture=%2f2016%2f03%2fGPIO-Chart2.jpg)
+ 
+ Now here's a picture of the raspberry pi itself with the GPIO pins. The right side of the diagram is going to be the top side of this picture. 
+ ![Picture of Pi Pins](http://i.imgur.com/Y82rJjR.jpg)
+ 
+ Now to introduce the DHT 22 sensor itself along with 3 female to female wires. 
+![DHT 22](http://i.imgur.com/O4aikLg.jpg) 
+
+The left side is the positive power connector, middle is the data send, and the right pin is the ground/negative pin for the DHT 22 sensor. 
+Following the chart as it follows, we're going to connect it to suite the code above. 
+
+I suggest plugging in the ground wire first before anything else is plugged in, that way you have a less likely chance of frying your first sensor. I highly suggest though that you have a spare or two because it is likely you might fry at least one sensor. 
+![Connecting negative/ground to the pi](http://i.imgur.com/IsMgnXz.jpg)
+You can pick any ground pin. Here we connect it to the 3rd pin on the top/right. Next we're connecting the postive power to one of the 5v pins on the pi, which is the first pin on the top/right of the pi. 
+![Positive to positive pin](http://i.imgur.com/Cltoi90.jpg)
+
+Last pin we're going to connect is the data pin, which connects to the 4th pin on the bottom/left of the raspberry pi, since our code is reading from GPIO pin 4, we have to match it.( You can change the code for the data pin placement, just remember to connect it to the right GPIO pin)
+![Data pin to pi](http://i.imgur.com/oJ1ZbXu.jpg)
+
+Here's how it should look with all 3 plugged into the raspberry pi
+![All 3](http://i.imgur.com/GKRa5Fd.jpg)
+
+Now that's all setup, you can now test the code to see if it works. Once that is done, you can extend the cable by attaching it to a solid core of ethernet cable by soldering, though attaching a resistor may be needed. For a cable about 50-80 feet long, you're going to need to solder a  2.2k ohm resistor somewhere along the lines of. Play around with it a bit with length and resistors to see your readings. 
+
 So now that we have our file recording data at intervals, next is the script that'll update and provid you with a live graph of the data. 
     
 ```

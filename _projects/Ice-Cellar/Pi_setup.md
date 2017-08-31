@@ -158,9 +158,9 @@ To make things a little easier for removing/replacing the cable if an accident h
 I suggest that you follow the ethernet cable setup A, which is this diagram below for the setup. 
 ![cable A](http://www.incentre.net/wp-content/uploads/2015/02/ethcable568a.gif). 
 
-You're going to need an ethernet crimper for this part. Highly suggest you get 3 female jumper cables that follows or resembles 3 of the cable colors so that you don't have to question if you plugged it in wrong.  Cut the female jumper cables in half and push them in the punch as this image :![Work](http://i.imgur.com/k4coL82.jpg). 
+You're going to need an ethernet crimper for this part. Highly suggest you get 3 female jumper cables that follows or resembles 3 of the cable colors so that you don't have to question if you plugged it in wrong.  Cut the female jumper cables in half and push them in the punch as this image :![Work](http://i.imgur.com/4kU8ypx.jpg). 
 Make sure you solder the cables onto the right colored cables so that the sensor(s) work. Once that's done, you can plug it in like a regular computer, but instead of reading internet it will be doing the temperature and humidity readings. This is what it should look like :
-![soldered dht 22 w/ethernetpunch](http://i.imgur.com/TNJUAbT.jpg)
+![soldered dht 22 w/ethernetpunch](http://i.imgur.com/4TCrpnJ.jpg)
 
 
 Now that's all setup, you can now test the code to see if it works. Once that is done, you can extend the cable by attaching it to a solid core of ethernet cable by soldering, though attaching a resistor may be needed. For a cable about 50-80 feet long, you're going to need to solder a  2.2k ohm resistor somewhere along the lines of. Play around with it a bit with length and resistors to see your readings. 

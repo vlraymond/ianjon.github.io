@@ -2,53 +2,52 @@
 title: Setting up the pi
 layout: default
 ---
-# This Project is protected under the MIT License
-# At the moment this is for the software side, this will be updated with pictures soon. 
-### For Touch Screen Rotation
-If you want to flip your screen along with its touch configuration, for example your setup is meant for the device to work upsides down, open the terminal window and type: ``` sudo nano /boot/config.txt``` and type in on the forth line : ```lcd_rotate=2```. 
+#### This Project is protected under the MIT License
+Note: At the moment this is for the software side, this will be updated with pictures soon.   
 
-
-
+## 1. Get the Raspberry Pi Operating System
 So here's a link to download the operating system onto the SD card/micro SD card if it doesn't come with it installed or it manages to go very wrong. 
 The link also helps with your first install of the operating system.
 [Click here for the download](https://www.raspberrypi.org/help/noobs-setup/2/)
 
+## 2. Install Raspbian OS
 (Picture below is reference for what to pick as the operating system)
 ![Picture for reference on what to pick](https://www.raspberrypi.org/wp-content/uploads/2013/06/mainwindow.png)
 Install the raspbian OS and there you have it, a working little mini computer.
 
-The next step is to open the home button, which should be at the top left side of the screen. Scroll to preferences and change your keyboard layout to English US (Default is british layout, which can make you go a little crazy.)
-
-
+## 3. Setup your Pi
+The next step is to open the home button, which should be at the top left side of the screen. Scroll to preferences and change your keyboard layout to English US (Default is british layout, which can make you go a little crazy.)  
 
 ![Image of what the screen should look like when you are changing the keyboard layout](http://guides.cyntech.co.uk/wp-content/uploads/sites/8/2015/09/raspi-configgui.png) 
 
+## 4. Make sure you're up to date!
 After that, open up the terminal window (which should be the monitor icon on the top bar of the screen). 
 
 ![Image of what the terminal should look like](http://osoyoo.com/wp-content/uploads/2016/09/2-1.png)
 
-Then type in the terminal : sudo apt-get update
+Then type in the terminal : sudo apt-get update  
+Then when it's done, type in : sudo apt-get upgrade  
 
-Then when it's done, type in : sudo apt-get upgrade
+## 5. How to setup GPIO pins
 Here is a video tutorial of how to setup the GPIO pins( wiring of the breadboard to the PI, most if not all kits will have the T-Cobbler attached. So for instance if he says negative to ground, just plugged the wire into the ground section of the T-Cobbler and so forth of that.) 
 https://www.youtube.com/watch?v=DPvxsHoD7kc&t=694s  
 
-Next we're going to install some necessary libraries. In the same command window you're going to type these commands to installt the libraries. I'll also post a link for where I got the command to install these, as they also have guides for these device(s). 
+## 6. Install your libraries
+Next we're going to install some necessary libraries. In the same command window you're going to type these commands to install the libraries. I'll also post a link for where I got the command to install these, as they also have guides for these device(s). 
 
-Thingsboard library install for DHT Sensors:
+* Thingsboard library install for DHT Sensors:  
 This library needs a DHT sensor along with the breadboard and some male to female jumper wires. So the commands to input are:
 
-The MQTT library installation:``` sudo pip install paho-mqtt```
+* The MQTT library installation:  
+``` sudo pip install paho-mqtt```
 
-Adafruit DHT library installation for the command line window 
-
+* Adafruit DHT library installation for the command line window   
 ```git clone https://github.com/adafruit/Adafruit_Python_DHT.git``` , 
-then after it's done installing, 
-
-type ```cd Adafruit_Python_DHT``` in the command line window to change to that folder directory. Then in the directory, type:
-```sudo apt-get install python-dev ```then ``` sudo python setup.py install``` while you're in still in the same library, type ``` sudo apt-get update```. Reason is that when you try to run a script with the Adafruit_DHT Library, most of the time it'll say 'No import module named Adafruit_DHT' 
-
-This next part is where you're going to have to open a python script to copy and paste into script window. You can option to type in in yourself, but you'll most likely end up misspelling a some words and it won't work until you fix it. The code you'll have to put in the script is: 
+then after it's done installing, type ```cd Adafruit_Python_DHT``` in the command line window to change to that folder directory.    
+Then in the directory, type:
+```sudo apt-get install python-dev ```then ``` sudo python setup.py install``` while you're in still in the same library, type ``` sudo apt-get update```.  
+Reason is that when you try to run a script with the Adafruit_DHT Library, most of the time it'll say 'No import module named Adafruit_DHT' 
+* This next part is where you're going to have to open a python script to copy and paste into script window. You can option to type in in yourself, but you'll most likely end up misspelling a some words and it won't work until you fix it. The code you'll have to put in the script is:  
 ```
 import os
 import time
@@ -99,9 +98,9 @@ except KeyboardInterrupt:
 client.loop_stop()
 client.disconnect() 
 ```
-You're going to want to run this script in python 2. Script isn't reading that adafruit library if it's running in python 3
+You're going to want to run this script in python 2. Script isn't reading that adafruit library if it's running in python 3  
 
-If you need to do the live graph auto updating on your screen, then you're going to need to install some more libraries. The next library you'll need to install is: ``` sudo apt-get install python-matplotlib```. Then copy this code into a python 2.7 script: 
+If you need to do the live graph auto updating on your screen, then you're going to need to install some more libraries. T  he next library you'll need to install is: ``` sudo apt-get install python-matplotlib```. Then copy this code into a python 2.7 script:  
 
 ```
 import Adafruit_DHT
@@ -129,41 +128,39 @@ while als:
     time.sleep(60)
  ```
  ### Hardware setup for DHT 22 Sensor: 
- You're going to need to know a little bit about the GPIO pins for the raspberry pi. Here's a chart displaying what each pin is used for. 
+ You're going to need to know a little bit about the GPIO pins for the raspberry pi. Here's a chart displaying what each pin is used for.   
  
  ![GPIO Pin layout](http://blog.mcmelectronics.com/image.axd?picture=%2f2016%2f03%2fGPIO-Chart2.jpg)
  
- Now here's a picture of the raspberry pi itself with the GPIO pins. The right side of the diagram is going to be the top side of this picture. 
+ Now here's a picture of the raspberry pi itself with the GPIO pins. The right side of the diagram is going to be the top side of this picture.   
  ![Picture of Pi Pins](http://i.imgur.com/Y82rJjR.jpg)
  
- Now to introduce the DHT 22 sensor itself along with 3 female to female wires. 
+ Now to introduce the DHT 22 sensor itself along with 3 female to female wires.   
 ![DHT 22](http://i.imgur.com/O4aikLg.jpg) 
 
-The left side is the positive power connector, middle is the data send, and the right pin is the ground/negative pin for the DHT 22 sensor. 
-Following the chart as it follows, we're going to connect it to suite the code above. 
-
-I suggest plugging in the ground wire first before anything else is plugged in, that way you have a less likely chance of frying your first sensor. I highly suggest though that you have a spare or two because it is likely you might fry at least one sensor. 
+The left side is the positive power connector, middle is the data send, and the right pin is the ground/negative pin for the DHT 22 sensor.   
+Following the chart, we're going to connect it to suite the code above.   
+I suggest plugging in the ground wire first before anything else is plugged in, that way you have a less likely chance of frying your first sensor. I highly suggest though that you have a spare or two because it is likely you might fry at least one sensor.   
 ![Connecting negative/ground to the pi](http://i.imgur.com/IsMgnXz.jpg)
-You can pick any ground pin. Here we connect it to the 3rd pin on the top/right. Next we're connecting the postive power to one of the 5v pins on the pi, which is the first pin on the top/right of the pi. 
+You can pick any ground pin. Here we connect it to the 3rd pin on the top/right. Next we're connecting the postive power to one of the 5v pins on the pi, which is the first pin on the top/right of the pi.   
 ![Positive to positive pin](http://i.imgur.com/Cltoi90.jpg)
 
-Last pin we're going to connect is the data pin, which connects to the 4th pin on the bottom/left of the raspberry pi, since our code is reading from GPIO pin 4, we have to match it.( You can change the code for the data pin placement, just remember to connect it to the right GPIO pin)
+Last pin we're going to connect is the data pin, which connects to the 4th pin on the bottom/left of the raspberry pi, since our code is reading from GPIO pin 4, we have to match it.( You can change the code for the data pin placement, just remember to connect it to the right GPIO pin)  
 ![Data pin to pi](http://i.imgur.com/oJ1ZbXu.jpg)
 
-Here's how it should look with all 3 plugged into the raspberry pi
+Here's how it should look with all 3 plugged into the raspberry pi  
 ![All 3](http://i.imgur.com/GKRa5Fd.jpg)
 
-To make things a little easier for removing/replacing the cable if an accident happens, as in like an animal chews through the cable, you can set it up with an ethernet punch. This is what it looks like. 
+To make things a little easier for removing/replacing the cable if an accident happens, as in like an animal chews through the cable, you can set it up with an ethernet punch. This is what it looks like.   
 ![Ethernetpunch](https://static.grainger.com/rp/s/is/image/Grainger/13U623_AW01?$zmmain$). 
-I suggest that you follow the ethernet cable setup A, which is this diagram below for the setup. 
+I suggest that you follow the ethernet cable setup A, which is this diagram below for the setup.   
 ![cable A](http://www.incentre.net/wp-content/uploads/2015/02/ethcable568a.gif). 
 
-You're going to need an ethernet crimper for this part. Highly suggest you get 3 female jumper cables that follows or resembles 3 of the cable colors so that you don't have to question if you plugged it in wrong.  Cut the female jumper cables in half and push them in the punch as this image :![Work](http://i.imgur.com/4kU8ypx.jpg). 
-Make sure you solder the cables onto the right colored cables so that the sensor(s) work. Once that's done, you can plug it in like a regular computer, but instead of reading internet it will be doing the temperature and humidity readings. This is what it should look like :
+You're going to need an ethernet crimper for this part. Highly suggest you get 3 female jumper cables that follows or resembles 3 of the cable colors so that you don't have to question if you plugged it in wrong.  Cut the female jumper cables in half and push them in the punch as this image :![Work](http://i.imgur.com/4kU8ypx.jpg).   
+Make sure you solder the cables onto the right colored cables so that the sensor(s) work. Once that's done, you can plug it in like a regular computer, but instead of reading internet it will be doing the temperature and humidity readings. This is what it should look like :  
 ![soldered dht 22 w/ethernetpunch](http://i.imgur.com/4TCrpnJ.jpg)
 
-
-Now that's all setup, you can now test the code to see if it works. Once that is done, you can extend the cable by attaching it to a solid core of ethernet cable by soldering, though attaching a resistor may be needed. For a cable about 50-80 feet long, you're going to need to solder a  2.2k ohm resistor somewhere along the lines of. Play around with it a bit with length and resistors to see your readings. 
+Now that's all setup, you can now test the code to see if it works. Once that is done, you can extend the cable by attaching it to a solid core of ethernet cable by soldering, though attaching a resistor may be needed. For a cable about 50-80 feet long, you're going to need to solder a  2.2k ohm resistor somewhere along the lines of. Play around with it a bit with length and resistors to see your readings.  
 
 So now that we have our file recording data at intervals, next is the script that'll update and provid you with a live graph of the data. 
     
@@ -210,8 +207,8 @@ ani = animation.FuncAnimation(fig,animate, interval= 6000)
 plt.show()
         
 ```
-### Setting up the ground sensor(Previous mentioned libraries will also need to be installed): 
-You're going to need to install the library in the terminal window with the command: ```sudo apt-get install python-w1thermsensor```. Within the same terminal window, type in : ```debuild -us -uc```, then after that's done :```dpkg -i ./python-w1-thermsensor_*.deb```.
+### Setting up the ground sensor (Previous mentioned libraries will also need to be installed): 
+You're going to need to install the library in the terminal window with the command: ```sudo apt-get install python-w1thermsensor```.   Within the same terminal window, type in : ```debuild -us -uc```, then after that's done :```dpkg -i ./python-w1-thermsensor_*.deb```.  
 
 Now for the code you'll be typing into a python script: 
 
@@ -268,4 +265,10 @@ while True:
 ```
 
 After that's done, go back into the terminal window and type : ```sudo nano /boot/config.txt```, scroll to the bottom and add this line to it : ```dtoverlay=w1-gpio```
+
+
+
+### For Touch Screen Rotation
+If you want to flip your screen along with its touch configuration, for example your setup is meant for the device to work upsides down, open the terminal window and type: ``` sudo nano /boot/config.txt``` and type in on the forth line : ```lcd_rotate=2```. 
+
 
